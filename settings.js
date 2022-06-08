@@ -26,9 +26,9 @@
   global.ownername = 'MrD' // Ganti Jadi Namamu
   global.owner = ['6281334728986','6281334728986','6281332818051'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6281334728986' // Owner Utama Istilahnya
-  global.botname = 'MrD-Md' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.botname = 'TRASH-MD' // Ganti Jadi Nama Botmu
+  global.packname = 'TRASH-MD' // Sticker Weem
+  global.author = 'TRASH-MD' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/H80aYINErMn0pWYSjyXlhL' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
@@ -62,7 +62,7 @@
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses ..._',
+  wait: '_Sabar Kak Sedang Di Proses ..._',
   done: '_Done Ngab 🤗_',
   }
 
